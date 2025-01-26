@@ -2,4 +2,6 @@ langgraph
 langsmith
 langchain_anthropic
 langchain-openai
+langchain_community
 openai
+tavily-python
