@@ -1,4 +1,5 @@
 langgraph
 langsmith
 langchain_anthropic
+langchain-openai
 openai
